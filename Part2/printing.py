@@ -9,6 +9,7 @@ def print_examples():
 	n = 99
 	print("n:", n, "\tm:", m)
 	print("f:", f)
+	print("Hello")
 
 
 if __name__ == '__main__':
